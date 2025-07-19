@@ -22,7 +22,7 @@ A comprehensive real-time monitoring tool for Epic Games services, incidents, an
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/epic-games-status-monitor.git
+   git clone https://github.com/ynwglobal/epic-games-status-monitor.git
    cd epic-games-status-monitor
    ```
 
@@ -38,7 +38,7 @@ A comprehensive real-time monitoring tool for Epic Games services, incidents, an
 
 ### One-Line Install & Run
 ```bash
-git clone https://github.com/yourusername/epic-games-status-monitor.git && cd epic-games-status-monitor && pip install -r requirements.txt && python3 fnstatus.py --once
+git clone https://github.com/ynwglobal/epic-games-status-monitor.git && cd epic-games-status-monitor && pip install -r requirements.txt && python3 fnstatus.py --once
 ```
 
 ## 📖 Usage
@@ -190,7 +190,7 @@ pip install -r requirements.txt --force-reinstall
 
 If you encounter issues:
 
-1. Check the [Issues](https://github.com/yourusername/epic-games-status-monitor/issues) page
+1. Check the [Issues](https://github.com/ynwglobal/epic-games-status-monitor/issues) page
 2. Run with `--once` flag to test basic functionality
 3. Verify your Python and pip versions
 4. Check internet connectivity to Epic's APIs
